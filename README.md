@@ -5,6 +5,8 @@ mun317 게임 개발자 사이트 (GitHub Pages).
 - `/` 개발자 홈
 - `/todaysmath/` 오늘의 수학 소개
 - `/todaysmath/privacy/` 오늘의 수학 개인정보처리방침 (ko/en/ja) — Play Console · AdMob에 등록하는 URL
+- `/brickbuster/` Brick Buster 소개
+- `/brickbuster/privacy/` Brick Buster 개인정보처리방침 (ko/en/ja) — Play Console · AdMob에 등록하는 URL
 - `/app-ads.txt` AdMob 광고 인증 (모든 앱 공통)
 
-원본은 `mun317/Math` 저장소의 `site/` 폴더에서 관리합니다.
+오늘의 수학 페이지의 원본은 `mun317/Math` 저장소의 `site/` 폴더, Brick Buster 페이지는 이 저장소에서 직접 관리합니다. Math 쪽에서 사이트를 다시 올릴 때 `brickbuster/` 폴더와 홈의 Brick Buster 카드를 지우지 않도록 주의하세요.
